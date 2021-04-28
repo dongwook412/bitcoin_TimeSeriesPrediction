@@ -4,6 +4,9 @@
 - 잔차에 대한 ACF/PACF를 확인하여 자기 상관을 조사
 - 훈련 데이터를 적합한 모델에 테스트 데이터를 대입하여 예측 및 RMSE 비교
 - 변동성에 대한 예측을 수행하는 ARCH와 GARCH를 사용하여 Volatility Clustering 현상 확인
+<p align="center"><img src="./img/1.PNG"></p>
+<br/>
+
 
 **[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
