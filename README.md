@@ -5,6 +5,7 @@
 - 훈련 데이터를 적합한 모델에 테스트 데이터를 대입하여 예측 및 RMSE 비교
 - 변동성에 대한 예측을 수행하는 ARCH와 GARCH를 사용하여 Volatility Clustering 현상 확인
 <p align="center"><img src="./img/1.png"></p>
+<p align="center"><img src="./img/2.png"></p>
 <br/>
 
 
